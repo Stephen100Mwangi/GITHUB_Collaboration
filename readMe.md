@@ -4,7 +4,7 @@ This a simple illustration of Collaboration using GitHub
 
 ## Key_takeaways #
 
-Git clone
-Git add
-GIt commit
-Git push
+1. Git clone
+2. Git add
+3. GIt commit
+4. Git push
